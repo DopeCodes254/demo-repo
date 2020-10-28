@@ -1,5 +1,5 @@
 # Welcome to github
 
-Hello World
-Feels good to be using GitHub
+1. Hello World
+2. Feels good to be using GitHub
 
